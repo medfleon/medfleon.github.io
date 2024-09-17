@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://medfleon.github.io/sitemap.html.gz
+Sitemap: https://medfleon.github.io/app/sitemap.html.gz
+Sitemap: https://medfleon.github.io/assets/sitemap.html.gz
+Sitemap: https://medfleon.github.io/css/sitemap.html.gz
+Sitemap: https://medfleon.github.io/includes/sitemap.html.gz
+Sitemap: https://medfleon.github.io/item/sitemap.html.gz
+Sitemap: https://medfleon.github.io/src/sitemap.html.gz
